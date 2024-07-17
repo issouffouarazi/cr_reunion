@@ -1,0 +1,133 @@
+[ 
+ {  
+   
+  "speaker" : 0,      
+  "text" :  Aujourd'hui, en reçoit Simon a une étudiante de 19 ans passionné à déliter un dix 
+ }, 
+ {  
+   
+  "speaker" : 0,      
+  "text" :  et le défi fou de fabriquer son propre processeur. 
+ }, 
+ {  
+   
+  "speaker" : 0,      
+  "text" :  Alors, je peux vous dire, fabriquer un processeur, c'est quand même un sacré défi. 
+ }, 
+ {  
+   
+  "speaker" : 0,      
+  "text" :  C'est l'élement centrale de l'ordinateur, surtout, potent ainsi le plus complexe. 
+ }, 
+ {  
+   
+  "speaker" : 0,      
+  "text" :  Simon, tu as venu avec ta maquette, justement, qu'on a là, tu vas pouvoir nous expliquer comment 
+ }, 
+ {  
+   
+  "speaker" : 0,      
+  "text" :  t'arriéliser ce qui est, ou ce qui peut être va bien to être une vraie architecture de processeur 
+ }, 
+ {  
+   
+  "speaker" : 0,      
+  "text" :  puisque il marche à priori. 
+ }, 
+ {  
+   
+  "speaker" : 2860,      
+  "text" :  Et ce sera l'occasion pour tous les gens qui donnent comme nous. 
+ }, 
+ {  
+   
+  "speaker" : 2860,      
+  "text" :  J'ai aimé compris exactement ce qui se passait au cœur de notre ordinateur, 
+ }, 
+ {  
+   
+  "speaker" : 2860,      
+  "text" :  à pas de voir un petit peu plus clair, justement. 
+ }, 
+ {  
+   
+  "speaker" : 2860,      
+  "text" :  En préavus, est-ce que tu peux nous s'expliquer pourquoi tu t'élencesse dans ce défi complètement d'un défi? 
+ }, 
+ {  
+   
+  "speaker" : 2860,      
+  "text" :  Déjà, parce que je m'amuse à chercher comment font son déchose depuis toujours. 
+ }, 
+ {  
+   
+  "speaker" : 2860,      
+  "text" :  Je suis extrêmement courieux. 
+ }, 
+ {  
+   
+  "speaker" : 2860,      
+  "text" :  Ça va les regarder des protocales comme le GP-E, qui est puis comprendre comment il marche directement au dégain d'ici-mal. 
+ }, 
+ {  
+   
+  "speaker" : 5440,      
+  "text" :  Et la algorithme YouTube a fait que j'ai commencé à plonger dans des petites niches. 
+ }, 
+ {  
+   
+  "speaker" : 5440,      
+  "text" :  Et je suis tombé sur la chaîne d'un YouTube-Armer American, qui s'appelle Ben Interre. 
+ }, 
+ {  
+   
+  "speaker" : 5440,      
+  "text" :  Et donc c'est lui qui construit en premier cette machine, donc je me mettrai peu pas tous les loriers, c'est quand même pas uniquement mon travail. 
+ }, 
+ {  
+   
+  "speaker" : 5440,      
+  "text" :  Et en moins j'ai sauté le bâge, j'ai acheté tous les composants et j'ai commencé à construire le mur. 
+ }, 
+ {  
+   
+  "speaker" : 5440,      
+  "text" :  Et donc ton objectif, c'est de créer un processeur parce que, à partir de quand on peut appeler ça, un processeur. 
+ }, 
+ {  
+   
+  "speaker" : 8080,      
+  "text" :  Tu compliques à dire, de temps plus que c'est pas complètement un processeur. 
+ }, 
+ {  
+   
+  "speaker" : 8080,      
+  "text" :  Dans le sens où il y a carrément une sortie, il y a un affichage, il y a de la rampe alors que la rampe serait plutôt en dehors dans un processeur. 
+ }, 
+ {  
+   
+  "speaker" : 8080,      
+  "text" :  Mais c'est en fait une machine, ça se dit « Tourine complique ». 
+ }, 
+ {  
+   
+  "speaker" : 8080,      
+  "text" :  Donc il faut réd définir ce que c'est qu'une machine de Tourine. 
+ }, 
+ {  
+   
+  "speaker" : 8080,      
+  "text" :  C'est un concept typothétique créé par Alan Tourine en 1936. 
+ }, 
+ {  
+   
+  "speaker" : 8080,      
+  "text" :  Et qui nous définit une bande de papier infinie, composée de plein de casse, 
+ }, 
+ {  
+   
+  "speaker" : 10620,      
+  "text" :  et une tête de lecture qui peut écrire sur une casse. 
+ }, 
+ 
+]

@@ -1,0 +1,188 @@
+[ 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " Aujourd'hui, en reçoit si mal un étudiant de 19 ans passionné à d'électronique. " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " Il s'est donné le défi fou de fabriquer son propre processeur. " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " Alors, je peux vous dire, fabriquer un processeur, c'est quand même un sacré défi. " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " C'est l'éléments central de leur dynamiteur. " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " Surtout potentiellement le plus complexe, " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " si mal tu es venu avec ta maquette, justement, que qu'on a là, " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " tu vas pouvoir nous expliquer comment ta réaliser ce qui est, " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " ou ce qui peut être va bientôt être une vraie architecture de processeurs, " 
+ }, 
+ {  
+   
+  "speaker" : "0" ,      
+  "text" : " puisqu'il marche à priori. " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " Et ce sera l'occasion pour tous les gens qui n'ont, comme nous, " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " jamais compris exactement ce qui se passait au cœur de notre ordinateur, " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " à pas d'y voir un petit peu plus clair, justement. " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " En prévu, est-ce que tu peux nous s'expliquer pourquoi tu t'élances " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " dans ce défi complètement dingue déjà ? " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " Déjà, parce que je m'amuse à chercher comment font son de les choses depuis toujours. " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " Je suis extrêmement curieux. " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " Donc ça va regarder des protocoles comme le GP, " 
+ }, 
+ {  
+   
+  "speaker" : "2860" ,      
+  "text" : " qui puis comprendre comment il marche directement en organes similes. " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " Et l'algorithme YouTube a fait que j'ai commencé à plonger dans des petites niches. " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " Et je suis tombé sur la chaîne d'un YouTubeur américain, " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " qui s'appelle Ben Nitter. " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " Et donc c'est lui qui construit en premier cette machine. " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " Donc je ne m'attriviu pas tous les laurels, " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " c'est quand même pas uniquement mon travail. " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " Et un moment, j'ai sauté le bas, j'ai acheté tous les composants, " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " et j'ai commencé à construire le mien. " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " Et ton objectif, c'est de créer un processeur, " 
+ }, 
+ {  
+   
+  "speaker" : "5460" ,      
+  "text" : " à ce que, à partir de quoi, on peut appeler ça, un processeur. " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " C'est compliqué à dire, d'autant plus que c'est pas complètement un processeur, " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " dans le sens où il y a carrément une sortie, il y a un affichage, " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " il y a de l'arame, alors que l'arame, c'est plutôt en dehors d'un processeur. " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " Mais c'est en fait une machine, ça se dit Turine Complete. " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " Donc il faudrait définir ce que c'est qu'il y a une machine de Turine. " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " C'est un concept hypothétique créé par Alan Turine en 1936, " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " et qui nous définit une bande de papiers infinie, " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " composée de plein de cases, " 
+ }, 
+ {  
+   
+  "speaker" : "8088" ,      
+  "text" : " et une tête de lecture qui peut écrire sur une case, " 
+ } 
+ 
+]
